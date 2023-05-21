@@ -7,7 +7,7 @@
   * VVI (2 servos)
   * AOA (2 servos)
   * MarkerBeacon
-
+## Pinmapping
 - pin A5: input for rotary push to reset motor
 - pin A6: switch for pneu/elec
 - pin A7: input to zeroize the stepper 
