@@ -1,7 +1,0 @@
-{
-    "configuration": "cpu=atmega328old",
-    "board": "arduino:avr:nano",
-    "port": "COM6",
-    "sketch": "BMSAIT_centerController.ino",
-    "programmer": "arduino:avrispmkii"
-}
