@@ -1,7 +1,7 @@
 # BMSAIT Center Console Controller
 * Microcontroller: Arduino Nano
 
-This Arduino Nano will drive the Centerconsole instruments, except the ADI and HSI.  
+This Arduino Nano will drive the Centerconsole instruments, except the ADI (driven by the InstrumentpanelController?) and HSI(graphical version).  
 Altimeter, the 2 ASI needles, 4 additional servos of VVI and AOA and the MarkerBeacon
 
 - pin A5: input for rotary push to reset motor
